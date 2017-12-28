@@ -79,7 +79,7 @@ export default class Props extends Component {
             {description}
           </Paragraph>
           <Button
-            href={`https://codesandbox.io/s/github/grommet/grommet-site?initialpath=${initialPath}&module=%2Fscreens%2F${name}.js`}
+            href={`https://codesandbox.io/s/github/carolineartz/grommet-site?initialpath=${initialPath}&module=%2Fscreens%2F${name}.js`}
             target='_blank'
           >
             <img
